@@ -1,0 +1,31 @@
+*{
+ /* outline: 1px solid red;*/
+  background: black ;
+}
+h1{
+  color: aqua;
+  font-size: 60px;
+  font-family: 'Bree Serif', serif;
+  font-family: 'Shojumaru', cursive;
+}
+.hijo{
+  width: 300px;
+  height: 80px;
+  border-style: dotted;
+  text-align: center;
+  font-size: 50px;
+  background: pink;
+  font-family: 'Bree Serif', serif;
+  font-family: 'Sedgwick Ave Display', cursive;
+
+}
+
+.padre{
+  width: 320px;
+  height: 100px;
+  font-size: 50px;
+  margin-top:200px;
+  padding: 30px;
+  border: red 80px solid;
+  background: yellow;
+}
